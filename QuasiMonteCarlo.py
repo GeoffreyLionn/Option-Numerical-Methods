@@ -17,7 +17,7 @@ def quasi_monte_carlo(S0, sigma, r, q, K, T, opt, n):
         opt - 'call' or 'put'
         n - number of simulations
         
-    Returns the option payoff simulations
+    Returns the option payoff simulations in Pandas Series
     '''
     
     dist = stats.qmc.MultivariateNormalQMC(mean = [0], cov = [[1]])
