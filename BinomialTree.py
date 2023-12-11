@@ -3,7 +3,7 @@ import numpy as np
 def binomial_tree(S0, sigma, r, q, K, T, opt, n):
     
     '''
-    Black Scholes Model to calculate the value of an option
+    Binomial Tree Model to calculate the value of an option
     
     Args:
         S0 - intial price of underlying asset
