@@ -1,4 +1,4 @@
-### Option Valuation Methods
+### Option Numerical Methods
 
 The following repository's purpose is to estimate the value of options using various popular numerical methods:
 1. Black Scholes Model
