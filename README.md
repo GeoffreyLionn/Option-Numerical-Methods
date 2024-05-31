@@ -1,6 +1,6 @@
 ### Option Valuation Methods
 
-The following repository's purpose is to calculate the value of call/put options using various popular numerical methods:
+The following repository's purpose is to estimate the value of options using various popular numerical methods:
 1. Black Scholes Model
 2. Binomial Tree
 3. Quasi Monte Carlo Simulation
